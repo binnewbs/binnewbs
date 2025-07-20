@@ -1,7 +1,10 @@
-<p align="center">
-    been<br>
+# Been
 
-<p align="center">
-    Studying <b>information systems</b><br>
-    rice addict<br>
-</p>
+- 🎓 studying **information systems**
+- 🖥️ rice addict
+
+=========================================
+
+- minimalist
+- efficiency over formality
+

@@ -1,9 +1,11 @@
 # Been
 
-- 🎓 studying **information systems**
-- 🖥️ rice addict
+[ bio ]
 
-=========================================
+- 🎓  studying **information systems**
+- 🖥️  rice addict
+
+[ personality ]
 
 - minimalist
 - efficiency over formality

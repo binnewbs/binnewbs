@@ -2,9 +2,7 @@
 
 [ bio ]
 - 🎓  studying **information systems**
-- 🖥️  rice addict
-
----
+- 🖥️  rice addict<br><br>
 
 [ personality ]
 - minimalist

@@ -4,6 +4,7 @@
 - 🎓  studying **information systems**
 - 🖥️  rice addict
 
+---
 
 [ personality ]
 - minimalist

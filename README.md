@@ -8,4 +8,4 @@
 - minimalist
 - efficiency over formality
   
-<center>![binnewbs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binnewbs&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)</center>
+<p align="center">![binnewbs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binnewbs&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)</p>

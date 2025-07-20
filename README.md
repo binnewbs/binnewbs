@@ -1,4 +1,8 @@
-## Hi there 👋
+beeen
+------
+studying information systems
+absolutely love linux ricing
+
 
 <!--
 **binnewbs/binnewbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

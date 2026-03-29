@@ -9,4 +9,4 @@
 - efficiency over formality
 
 [ tech stacks ]
-python | linux | docker | virtualization
+- python | linux | docker | virtualization

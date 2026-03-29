@@ -7,4 +7,8 @@
 [ personality ]
 - minimalist
 - efficiency over formality
-  
+
+[ tech stacks ]
+- python
+- linux
+- docker
